@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Médica & Estética Aurum",
+  "description": "Site mobile de alta sofisticação em branco e dourado com agendamento via WhatsApp, vídeo institucional, antes e depois interativo, equipe médica e tour pela clínica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
